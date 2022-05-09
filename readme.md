@@ -1,0 +1,1 @@
+An attempt at making a school's website during my first bootcamp
